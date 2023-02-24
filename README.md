@@ -3,7 +3,7 @@ Hi there, I'm Ashvini 👋
 https://ashvini8.github.io/ashvinihunagund/
 
 - 🏫 I'm a second year CS student @ UofT
-- 🔭 I’m currently working on continuously updating my personal webiste!
+- 🔭 I’m currently working on continuously updating my personal website!
 - 🌱 I’m currently seeking a summer 2023 co-op / internship!
 - 👩🏽‍💻 What I've been working with: HTML, CSS, JavaScript, Java, C, ReactJS, Python
 - 👧🏽 Pronouns: she/her
